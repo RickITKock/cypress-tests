@@ -1,0 +1,23 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickITKock/cypress-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickITKock/cypress-tests/issues"
+  },
+  "homepage": "https://github.com/RickITKock/cypress-tests#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
